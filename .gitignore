@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data, checkpoints and cached experiment results
+data/
+results/
+*.pth
+*.pt
+*.pkl
+*.npy
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Local drafts
+scratch/
